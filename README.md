@@ -422,8 +422,10 @@ Goals:
 * http://webdam.inria.fr/Alice/ [databases]
 * https://hacker-tools.github.io/
 
+## miscellaneous
+- [ ] [bit masking](https://www.youtube.com/watch?v=7jkIUgLC29I&t=3s)
 
-*
+
 ## Reading List
 
 - [ ] [The Art of Unix Programming](https://www.bol.com/nl/p/the-art-of-unix-programming/1001004010307550/?Referrer=ADVNLGOO002011B-G-50461511163-S-402982354031-1001004010307550&gclid=EAIaIQobChMI5Jvdq9_G2QIVh-cbCh2V6A2pEAYYAiABEgLGw_D_BwE)
